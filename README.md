@@ -1,11 +1,9 @@
 简体中文 | [English](./README_EN.md)
 
 <p>
-<strong><h2>無名の主页</h2></strong>
+<strong><h2>ljhの主页</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个
 </p>
-
-![無名の主页](/screenshots/main.jpg)
 
 >主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Other/Pacifico-Regular.ttf)，若无法下载，可将字体目录下的 `Pacifico-Regular-all.ttf` 进行替换
 
@@ -13,9 +11,7 @@
 
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [無名の主页](https://www.imsyy.top)
-- [無名の主页 - Dev](https://home-imsyy.vercel.app)
-- [無名の主页 - 备用线路](https://home-5iw.pages.dev)
+- [ljhの主页](https://www.ljh666.cn)
 
 ### 功能
 
@@ -220,8 +216,4 @@ if (type == 0) {
 * [Hitokoto 一言](https://hitokoto.cn/)
 * [MetingAPI By 武恩赐](https://api.wuenci.com/meting/api/)
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=imsyy/home&type=Date)](https://star-history.com/#imsyy/home&Date)
-
-<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://imsyy.top/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2023-%E7%84%A1%E5%90%8D-red"></a>
+###参考于[imsyy主页](https://github.com/imsyy/home)
